@@ -37,7 +37,7 @@ You can further access the following function with the help of this instance
 
 |Functi             |Parameter |Description                                                          |
 |-------------------|----------|---------------------------------------------------------------------|
-|accura             | NONE     |measures the accuracy of the model using confusion matrix            |
+|accuracy           | NONE     |measures the accuracy of the model using confusion matrix            |
 |recall             | NONE     |measures the recall of the model using confusion matrix              |
 |precision          | NONE     |measures the precision of the model using confusion matrix           |
 |F_score            | NONE     |measures the F1_score of the model using confusion matrix            |
